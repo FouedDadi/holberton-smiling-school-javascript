@@ -11,6 +11,7 @@ Here the final result:
 <img src="./design.jpg">
 
 Imports
+
 For this project, you will need: fonts from Google, JQuery, Bootstrap CSS/JS
 
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">

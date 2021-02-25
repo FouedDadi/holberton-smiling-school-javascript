@@ -1,0 +1,309 @@
+body .first {
+  background-image: url("images/pic_1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body .pricing {
+  background-image: url("images/pic_2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+body .pricing1 {
+  background-image: url("images/pic_2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: -11%;
+}
+.carousel {
+  margin-top: -2%;
+}
+
+.container-fluid h1 {
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 120px;
+  line-height: 151px;
+}
+
+.hero-section button,
+.membership-section button {
+  background-color: #c271ff;
+}
+
+.hero-section h2 {
+  margin-top: 8%;
+}
+
+.hero-section span {
+  color: #c271ff;
+}
+
+#carouselExampleControls .carousel-inner {
+  background-color: #c271ff;
+  font-size: larger;
+}
+.carousel-control-next-icon {
+  font-size: larger;
+}
+.firstcarousel {
+  margin-bottom: 5rem;
+  margin-top: 5rem;
+}
+.arrow {
+  height: 70px;
+  width: 35px;
+}
+
+.video-card {
+  width: 255px;
+  height: 335px;
+}
+
+.play-img {
+  margin: -110px 0 40px 85px;
+}
+
+.videos {
+  background-color: white;
+  margin-top: 10rem;
+}
+
+.video-card {
+  width: 350px;
+}
+
+.video-card .card-img-top {
+  width: 350px;
+  height: 200px;
+}
+
+.phillip,
+.color8-min {
+  color: #c271ff;
+}
+
+.play-img {
+  margin-top: -45%;
+  margin-left: 100px;
+}
+
+.sentence {
+  margin-bottom: 60px;
+  margin-top: -5%;
+  font-size: 32px;
+}
+
+.sentence span,
+.membership-section span {
+  color: #c271ff;
+}
+
+.membership-section {
+  background-color: #071629;
+}
+
+.cardy {
+  width: 20px;
+}
+
+footer {
+  background-color: #071629;
+}
+
+.holberton_school-icon-ic_facebook,
+.holberton_school-icon-ic_twitter,
+.holberton_school-icon-ic_instagram {
+  color: white;
+  font-size: 30px;
+  background-color: black;
+  border-radius: 50%;
+  margin-left: 15px;
+}
+
+@font-face {
+  font-family: "holberton_school-icon";
+  src: url("holberton_school-icon/fonts/holberton_school-icon.eot?sq4eq4");
+  src: url("holberton_school-icon/fonts/holberton_school-icon.eot?sq4eq4#iefix")
+      format("embedded-opentype"),
+    url("holberton_school-icon/fonts/holberton_school-icon.ttf?sq4eq4")
+      format("truetype"),
+    url("holberton_school-icon/fonts/holberton_school-icon.woff?sq4eq4")
+      format("woff"),
+    url("holberton_school-icon/fonts/holberton_school-icon.svg?sq4eq4#holberton_school-icon")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="holberton_school-icon-"],
+[class*=" holberton_school-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "holberton_school-icon" !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.holberton_school-icon-ic_facebook:before {
+  content: "\e908";
+}
+.holberton_school-icon-ic_instagram:before {
+  content: "\e90a";
+}
+.holberton_school-icon-ic_twitter:before {
+  content: "\e90f";
+}
+.holberton_school-icon-check:before {
+  content: "\e905";
+}
+.holberton_school-icon-search_1:before {
+  content: "\e912";
+}
+
+.container-fluid h6 {
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 80px;
+  line-height: 151px;
+}
+
+.holberton_school-icon-check {
+  font-size: 20px;
+  color: green;
+}
+
+table {
+  margin-top: 100px;
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 34px;
+}
+
+table tr {
+  line-height: 50px;
+}
+
+.holberton_school-icon-check {
+  font-size: 30px;
+}
+
+.pricing button {
+  background-color: #c271ff;
+}
+
+.opacity {
+  background-color: #979797;
+  opacity: 0.3;
+  margin-top: -1%;
+  width: 120%;
+  margin-left: -13%;
+}
+
+table .last {
+  margin-bottom: 80px;
+  margin-left: -30%;
+}
+
+table .one,
+.two,
+.three,
+.four {
+  margin-left: -30%;
+}
+
+.FAQ h1 {
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 60px;
+  line-height: 150px;
+}
+
+.courses-section h2 {
+  font-family: Coiny;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 35px;
+  text-align: center;
+}
+
+.courses-section span {
+  color: #c271ff;
+}
+
+.search {
+  background-color: #c271ff;
+  margin-bottom: 5%;
+  height: 200px;
+}
+
+.search input::placeholder {
+  opacity: 0.5;
+}
+
+.search .col-lg-4 {
+  margin-top: 2%;
+}
+
+.dropdown-menu {
+  width: 100%;
+}
+
+.fleche {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  align-items: center;
+  padding: 0.6rem;
+  margin-top: 5px;
+}
+
+.dropdown {
+  background-color: #d195ff;
+  margin-top: 5px;
+}
+
+.search .form-control {
+  height: 50px;
+  margin-top: 5px;
+  background-color: #d195ff;
+}
+
+input[type="text"]::placeholder {
+  color: white;
+}
+.icon {
+  background-color: #d195ff;
+  font-size: 35px;
+  padding-top: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 5px;
+  margin-left: 1%;
+}
+
+.videos-1 {
+  background-color: white;
+  margin-bottom: 100px;
+}
+
+.videos-1 h5 {
+  opacity: 0.4;
+  margin-left: 6%;
+  margin-bottom: 3%;
+}
